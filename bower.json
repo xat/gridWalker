@@ -1,0 +1,21 @@
+{
+  "name": "grid-walker",
+  "version": "0.0.1",
+  "authors": [
+    "Simon Kusterer <simon@sope.io>"
+  ],
+  "description": "Walk through each cell of a grid and do some processing.",
+  "main": "gridWalker.js",
+  "keywords": [
+    "grid",
+    "walker"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

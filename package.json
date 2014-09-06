@@ -1,0 +1,30 @@
+{
+  "name": "gridWalker",
+  "version": "0.0.1",
+  "description": "async gridWalker",
+  "main": "gridWalker.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xat/gridWalker"
+  },
+  "keywords": [
+    "grid",
+    "iterator"
+  ],
+  "author": "Simon Kusterer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xat/gridWalker/issues"
+  },
+  "homepage": "https://github.com/xat/gridWalker",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "gulp": "^3.8.7",
+    "gulp-concat": "^2.3.5",
+    "gulp-uglify": "^1.0.1",
+    "mocha": "^1.21.4"
+  }
+}
